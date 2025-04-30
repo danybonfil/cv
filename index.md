@@ -1,10 +1,6 @@
----
-title: ""
----
-
-<!-- Profile picture with styling (original shape, not cropped) -->
+<!-- Profile picture with styling -->
 <p align="center">
-  <img src="https://www.dropbox.com/scl/fi/hmz7vw9birf2otqdqmfq8/DABP_2025.jpg?rlkey=0omisjbtjvyc0c5i0uuapfh28&raw=1" alt="Daniel Bonfil" width="200">
+  <img src="https://www.dropbox.com/scl/fi/hmz7vw9birf2otqdqmfq8/DABP_2025.jpg?rlkey=0omisjbtjvyc0c5i0uuapfh28&st=m9tqz5qz&raw=1" alt="Daniel Bonfil" width="200" style="border-radius: 50%;">
 </p>
 
 <h1 align="center">Daniel Bonfil</h1>
@@ -22,6 +18,8 @@ My academic interests are grounded in prior experience in both the public and pr
 
 ---
 
-🔗 [LinkedIn](https://www.linkedin.com/in/danbonfil)
-📫 Email: [danbonfil@gmail.com](mailto:danbonfil@gmail.com)
-📄 [Download CV (PDF)](https://www.dropbox.com/scl/fi/9wb1t2xvm691bqttgicyc/RS_DABP_2025.pdf?rlkey=z2la8nahlm1nv15us70v9jpau&raw=1)
+<div align="center">
+
+🔗 <a href="https://www.linkedin.com/in/danbonfil">LinkedIn</a> &nbsp;&nbsp;&nbsp; 📫 <a href="mailto:danbonfil@gmail.com">Email</a> &nbsp;&nbsp;&nbsp; 📄 <a href="https://www.dropbox.com/scl/fi/9wb1t2xvm691bqttgicyc/RS_DABP_2025.pdf?rlkey=z2la8nahlm1nv15us70v9jpau&raw=1">Download CV (PDF)</a>
+
+</div>
