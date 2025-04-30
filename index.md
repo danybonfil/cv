@@ -1,3 +1,8 @@
+---
+title: ""
+---
+
+<!-- Profile picture with styling (original shape, not cropped) -->
 <p align="center">
   <img src="https://www.dropbox.com/scl/fi/hmz7vw9birf2otqdqmfq8/DABP_2025.jpg?rlkey=0omisjbtjvyc0c5i0uuapfh28&raw=1" alt="Daniel Bonfil" width="200">
 </p>
@@ -18,5 +23,5 @@ My academic interests are grounded in prior experience in both the public and pr
 ---
 
 🔗 [LinkedIn](https://www.linkedin.com/in/danbonfil)
-📫 Email: [danbonfil@gmail.com](mailto:danbonfil@gmail.com)  
-📄 [Download CV (PDF)](https://www.dropbox.com/scl/fi/9wb1t2xvm691bqttgicyc/RS_DABP_2025.pdf?rlkey=z2la8nahlm1nv15us70v9jpau&raw=1)  
+📫 Email: [danbonfil@gmail.com](mailto:danbonfil@gmail.com)
+📄 [Download CV (PDF)](https://www.dropbox.com/scl/fi/9wb1t2xvm691bqttgicyc/RS_DABP_2025.pdf?rlkey=z2la8nahlm1nv15us70v9jpau&raw=1)
